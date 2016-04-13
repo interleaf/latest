@@ -89,7 +89,10 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'littlefir',
         'PORT':'3306',
-        'HOST':
+        'HOST':'van.cfrgwk5bok1s.us-east-1.rds.amazonaws.com',
+        'PASSWORD':'Kelly830806930701',
+        'USER':'interleaf',
+
        
     }
 }
